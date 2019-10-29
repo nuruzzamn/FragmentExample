@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    android:background="#F5C207">
+
+<!--
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="This is fragment No.2"
+        android:textStyle="bold" />
+    -->
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="100dp"
+       android:gravity="center"
+       android:background="#556"
+       android:padding="5dp"
+       android:text=" Messeage Show Here "
+       android:textSize="16dp"
+       />
+
+
+</LinearLayout>
